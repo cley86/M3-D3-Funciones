@@ -1,0 +1,13 @@
+#ele1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+  height: 50px;
+  background-color: green;
+  color: white;
+  font-size: 20px;
+  margin: 50px auto;
+  border-radius: 5px;
+  cursor: pointer;
+}

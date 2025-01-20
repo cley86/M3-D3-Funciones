@@ -1,0 +1,16 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-wrap: wrap; /* Permitir que los cuadros se organicen en filas */
+  height: 100vh;
+  margin: 0;
+  overflow: hidden; /* Evitar scroll */
+}
+.box {
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
+  margin: 5px; /* Espaciado entre cuadros */
+  background-color: white;
+}

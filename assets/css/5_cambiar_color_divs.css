@@ -1,0 +1,28 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+#container {
+  display: flex;
+  gap: 10px;
+}
+.color-box {
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+}
+#div1 {
+  background-color: blue;
+}
+#div2 {
+  background-color: red;
+}
+#div3 {
+  background-color: green;
+}
+#div4 {
+  background-color: yellow;
+}
